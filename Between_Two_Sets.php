@@ -1,3 +1,4 @@
+<?php
 function getTotalX($a, $b) {
     // Write your code here
     usort($a,function($x,$y){
